@@ -1,0 +1,339 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"commn",
+				"command_runner"
+			],
+			[
+				"emcli",
+				"emcli_bin"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "__init__.py",
+			"settings":
+			{
+				"buffer_size": 15502,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tlester/projects/oem/utilities/emclpy/tests/test_emclpy.py",
+			"settings":
+			{
+				"buffer_size": 4173,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"last_filter": "todo",
+		"selected_items":
+		[
+			[
+				"todo",
+				"TodoReview: Open Files"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				" project",
+				"Project: Edit"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			],
+			[
+				"docb",
+				"DoxyDoxygen: Build documentation"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tlester/projects/oem/utilities/emclpy",
+		"/Users/tlester/projects/oem/utilities/emclpy/emclpy",
+		"/Users/tlester/projects/oem/utilities/emclpy/emclpy/emcli",
+		"/Users/tlester/projects/oem/utilities/emclpy/tests"
+	],
+	"file_history":
+	[
+		"/Users/tlester/Library/Application Support/Sublime Text 3/Packages/PlainTasks/PlainTasks (OSX).sublime-settings",
+		"/Users/tlester/Library/Application Support/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
+		"/Users/tlester/projects/oem/utilities/emclpy/emclpy/__init__.py",
+		"/Users/tlester/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/tlester/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/Users/tlester/projects/oem/utilities/url_target_ctl",
+		"/Users/tlester/projects/oem/utilities/emclpy/emclpy/emclpy.sublime-project",
+		"/Users/tlester/Documents/todo.taskpaper",
+		"/Users/tlester/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Users/tlester/Library/Application Support/Sublime Text 3/Packages/Gist/Gist.sublime-settings",
+		"/Users/tlester/Library/Application Support/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/Users/tlester/projects/oem/utilities/ldap_target_ctl/ldap_target_ctl/__init__.py",
+		"/Users/tlester/projects/oem/utilities/emclpy/tests/test_emclpy.py",
+		"/Users/tlester/Library/Application Support/Sublime Text 3/Packages/TodoReview/TodoReview.sublime-settings",
+		"/Users/tlester/projects/oem/utilities/emclpy/tests/__init__.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"due",
+			"test",
+			"tesst",
+			"test",
+			"elif",
+			"else"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15502,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13542,
+								13542
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4862.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/Users/tlester/projects/oem/utilities/emclpy/tests/test_emclpy.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3251,
+								3251
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 657.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "emclpy.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"__",
+				"emclpy/__init__.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/projects/oem/utilities/ldap_target_ctl/ldap_target_ctl.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
